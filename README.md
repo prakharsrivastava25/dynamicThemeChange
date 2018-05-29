@@ -1,6 +1,6 @@
-# Dynamically Switch Themes with Bootstrap and Angular 5
+# Dynamically Switch Themes with Bootstrap and Angular 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+
 
 ## Development server
 
