@@ -1,4 +1,4 @@
-# Dynamically Switch Themes with Bootstrap and Angular 
+# Dynamically Switch Themes with Bootstrap 4 and Angular 5
 
 
 
